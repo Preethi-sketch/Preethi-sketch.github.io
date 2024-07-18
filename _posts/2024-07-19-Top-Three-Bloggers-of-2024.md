@@ -1,3 +1,8 @@
+ ```tsql
+ SELECT *
+ FROM sys.tables
+ WHERE [name] = 'SomeTable'
+ ```
 # 2024-07-19-Top-Three-Bloggers-of-2024.md
 
 I thought of making a blog post on the top three bloggers of 2024. Let’s take a look at their strategies.
