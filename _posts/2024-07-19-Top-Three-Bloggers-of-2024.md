@@ -6,12 +6,12 @@ Timothy Sykes, a trading teacher and penny stock trader, is famous for earning m
 His blog is the biggest money-maker in our list, generating approximately one million dollars per month.
 timothysykes.com
 
-Rank: 2
+## Rank: 2
 Chiara Ferragni founded The Blonde Salad, an embellished blog covering beauty, fashion, celebrities, and lifestyle.
 She launched The Blonde Salad as a personal fashion blog in 2009. Over 12 years, she has grown her blog into an international, bilingual maven, with multi-million-dollar revenue a year and about 17 million followers.
 theblondesalad.com
 
-Rank: 3
+## Rank: 3
 Melyssa Griffin's blog focuses on the central theme of how to make money through blogging. It is probably fair to mention that she has good knowledge about the subject, given that she ranks third on our list.
 This blog has a wide collection of specialist content, such as blog articles, testimonials, and podcasts.
 melyssagriffin.com
