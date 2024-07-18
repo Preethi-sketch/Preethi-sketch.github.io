@@ -22,4 +22,10 @@ This blog has a wide collection of specialist content, such as blog articles, te
 melyssagriffin.com
 So, it doesn’t matter if we start our blog in a small way. Through dedication, persistence, special talents, and hard work, we can grow our blog to immense heights.
 
+ ```tsql
+ SELECT *
+ FROM sys.tables
+ WHERE [name] = 'SomeTable'
+ ```
+
 On a side note, I sang some songs today, and here is the link: https://www.youtube.com/@BlossomBlossom-se5cv
